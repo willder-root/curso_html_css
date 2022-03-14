@@ -1,0 +1,10 @@
+atalhos e comandos vscode
+
+
+! -> cria uma estrura basica do codigo html.
+
+comando "wrap whith abbreviation" ou "quebra de linha com abreviação" -> Colocar um texto 
+selecionado dentro de uma tag.
+
+shift + alt + up ou shift + alt + down -> cria uma copia do texto selecionado abaixo
+ou acima da seleção.

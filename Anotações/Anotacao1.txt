@@ -1,0 +1,26 @@
+Curso de HTML e CSS
+
+Tags principais
+
+	tags h1 até h6: indicar titulo, é uma tag semântica.
+	tag p: usada para indicar paragrafos, é um a tag semântica.
+	tag a: usada para links, é uma tag semântica.
+		atributo href: Usado para informar o link a qual será redirecionado.
+	tag b: usado para deixar o texto negrito, sem valor semântico
+	tag strong: deixa o texto em negrito e informa que é uma informação relevante, é uma tag
+		semântica.
+	tag br: usada para realizar uma quebra de linha, sem valor semântico.
+	tag hr: cria uma linga horizontal na tela, sem valor semântico.
+	tag em: deixa o texto em itálico informando que é um conteudo com enfase, é uma tag
+		semântica.
+	tag i: deixao o texto em itálico, sem valor semântico.
+	tag ul: usado para criar uma lista não ordenada.
+	tag ol: usada para criar uma lista ordenada.
+	tag li: usada nas tags ul e ol para informa os elementos da lista.
+	DOCTTYPE: informa a vesão tml usada.
+	tag head: usado para informar dados de cabeçalho de página.
+	tag body: usado para incluir os dados do corpo da página.
+	tag title: usado para informa o titulo na aba da pagina.
+	tag meta: usado para declarações de meta dados como charset, author etc.
+	tag html: tag principal, incluisse as tags head e body nela.
+		atributo lang: informa o idioma usado na pagina.
