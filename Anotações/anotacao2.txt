@@ -2,3 +2,17 @@ Curso de HTML e CSS
 
 CSS -> Folhas de Estilo em Cascata
 
+propriedade font: Usada para realizar mudanças na fonte do texto
+    font-family: Tipos de fonte
+    font-size: Tamanho da fonte
+    font-style: mudar para italico
+    font-variant: COlocar caracteres maiusculos, minuscupos ou capitalize
+propriede text: Usada para realizar mudanças no texto
+    text-align: alinhamento do texto
+    text-decoration: inclui ou retira o sublinhado
+    text_indent: incluir ou remover espacamento no começo do paragrafo.
+    text_transform: colocar maiusculos ou minusculos. 
+propriedade color: usado para definir a cor do texto
+    usa o rgb  (rr,gg,bb); 
+propriedade background-color: usado para definir a cor de fundo
+    usa o rgb(rr,gg,bb)
