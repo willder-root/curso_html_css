@@ -1,0 +1,18 @@
+#radius{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+
+    border-radius: 20px;
+
+    box-shadow: 10px 9px 35px black;
+
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+
+#radius:hover{
+    width: 350px;
+}

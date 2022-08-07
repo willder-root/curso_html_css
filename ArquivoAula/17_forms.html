@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--DOCTYPE nforma ao agente de usuário qual a versão html que deve ser renderizada-->
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Author" content="Redlliw">
+    <meta name="description" content="Lista de Documentos">
+    <meta name="KeyWords" content="html5, tecnologia">
+    <title>Pagina de exemplo estrutura basica</title>
+    <style>
+        .formLogin{
+            width: 250px;
+            margin: 50px auto 0;
+        }
+
+        .formLogin fieldset{
+            background-color: #ccc;
+            border-radius: 25px;
+        }
+
+        #txtUsuario, #txtSenha, .btn{
+            display: block;
+            width: 100%;
+            box-sizing: border-box;
+            padding: 15px;
+            border: none;
+            border-radius: 22px;
+        }
+
+        .formLogin label {
+            display: block;
+            padding-bottom: 10px;
+            padding-left: 15px;
+        }
+
+        .btn{
+            margin-top: 15px;
+        }
+
+        #txtUsuario{
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de formulário</h1>
+    <form action="#" method="post" class="formLogin">
+        <fieldset>
+            <legend>Login</legend>
+            <label for="txtUsuario">Usuário</label>
+            <input type="text" name="usuario" id="txtUsuario">
+            <label for="txtSenha">Senha</label>
+            <input type="password" name="senha" id="txtSenha">            
+            <input type="submit" value="login" class="btn">
+        </fieldset>
+        
+    </form>
+</body>
+</html>
